@@ -1,2 +1,2 @@
 Set Speak=CreateObject("sapi.spvoice")
-Speak.Speak "Hello how are you "
+Speak.Speak "Kaya hal hay"
